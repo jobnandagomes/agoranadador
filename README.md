@@ -67,35 +67,35 @@ Desenvolvimento de **8 sistemas Flutter** voltados à otimização de operaçõe
 
 - **R.O. 1 — Check‑in Digital**  
   *Resultado:* redução de filas em até 40% e padronização imediata do atendimento.  
-  🔗 https://github.com/jobnandagomes/RO1-checkin  
+  🔗 https://github.com/jobnandagomes/fluttercheckin  
 
 - **R.O. 2 — Checkout Otimizado**  
   *Resultado:* diminuição de atrasos e redução de erros de cobrança.  
-  🔗 https://github.com/jobnandagomes/RO2-checkout  
+  🔗 https://github.com/jobnandagomes/fluttercheckout  
 
 - **R.O. 3 — Governança & Arrumação**  
   *Resultado:* aumento de 25% na agilidade de liberação de quartos.  
-  🔗 https://github.com/jobnandagomes/RO3-governanca  
+  🔗 https://github.com/jobnandagomes/fluttergovernanca  
 
 - **R.O. 4 — Contingência & Overbooking**  
   *Resultado:* previsibilidade nas alocações e redução de conflitos internos.  
-  🔗 https://github.com/jobnandagomes/RO4-contingencia  
+  🔗 https://github.com/jobnandagomes/fluttercontingencia  
 
 - **R.O. 5 — Gestão de Eventos Corporativos**  
   *Resultado:* melhora da comunicação entre equipes e redução de falhas operacionais.  
-  🔗 https://github.com/jobnandagomes/RO5-eventos  
+  🔗 https://github.com/jobnandagomes/fluttereventos  
 
 - **R.O. 6 — Baixa Ocupação & Otimização de Custos**  
   *Resultado:* inteligência operacional para minimizar desperdícios em períodos críticos.  
-  🔗 https://github.com/jobnandagomes/RO6-ocupacao  
+  🔗 https://github.com/jobnandagomes/flutterocupacao  
 
 - **R.O. 7 — Calendário Comercial & Tarifas**  
   *Resultado:* maior previsibilidade e alinhamento entre vendas e operação.  
-  🔗 https://github.com/jobnandagomes/RO7-calendario  
+  🔗 https://github.com/jobnandagomes/fluttercalendario  
 
 - **R.O. 8 — CRM Operacional & Jornada do Hóspede**  
   *Resultado:* aumento de feedbacks capturados e melhoria geral da satisfação do hóspede.  
-  🔗 https://github.com/jobnandagomes/RO8-crm
+  🔗 https://github.com/jobnandagomes/fluttercrm
 
 ---
 
