@@ -100,4 +100,96 @@ Desenvolvimento de **8 sistemas Flutter** voltados à otimização de operaçõe
 ---
 
 ## 🧱 Arquitetura do Projeto  
-Estrutura clara e escalável:
+Estrutura clara e escalável: O projeto segue uma estrutura modular e organizada, separando claramente os modelos de dados, provedores de estado, rotas, telas, serviços e componentes da interface.
+
+### Estrutura de Pastas (Real):textlib/
+ ├── models/
+ │    └── swimmer.dart
+ ├── providers/
+ │    └── swimmer_provider.dart
+ ├── routes/
+ │    └── app_routes.dart
+ ├── screens/
+ │    ├── add_swimmer_page.dart
+ │    └── home_page.dart
+ ├── services/
+ │    ├── firebase_auth_service.dart
+ │    ├── firestore_service.dart
+ │    └── ble_fake_service.dart
+ ├── theme/
+ │    └── app_theme.dart
+ ├── widgets/
+ │    ├── custom_button.dart
+ │    ├── custom_card.dart
+ │    ├── training_list_widget.dart
+ │    └── swimmer_card.dart
+ └── main.dart
+ 
+ ### Descrição das Camadas:
+models/ — Definição de entidades (Swimmer e Training)
+providers/ — Gerência de estado com Provider
+routes/ — Configuração de rotas e navegação
+screens/ — Telas principais (Home, Adicionar Nadador, Detalhes de Treino)
+services/ — Integração com Firebase Auth, Firestore e simulação BLE
+theme/ — Tema Material Design 3
+widgets/ — Componentes reutilizáveis (botões, cards, listas)
+main.dart — Ponto de entrada da aplicação
+
+## 🖥️ Tecnologias Utilizadas
+Flutter 3.x
+Dart 3.x
+Firebase Auth (login anônimo)
+Cloud Firestore (persistência em tempo real)
+Provider (gerenciamento de estado)
+Material Design 3
+BLE Fake Service (simulação de métricas de treino)
+Google Fonts
+
+
+# 📱 Funcionalidades
+✅ Cadastro de nadadores
+✅ Registro de treinos com distância e tempo
+✅ Coleta de métricas simuladas via BLE Fake
+✅ Listagem e filtro de treinos por nadador
+✅ Histórico individual de performance
+✅ Interface responsiva com Material Design 3
+✅ Navegação simples e clara
+✅ Persistência em tempo real (Firestore)
+✅ Temas customizáveis
+
+# 🧪 TestesO projeto conta com:
+testes manuais de widgets e fluxos
+validação de integração Firebase
+testes de simulação BLE Fake
+análise estática de código
+
+# 📦Como Rodar o Projeto
+1. Clone o repositório:markdowngit clone https://github.com/jobnandagomes/agoranadador.git
+2. cd agoranadador
+3. Instale as dependências:flutter pub get
+4. Configure o Firebase:
+
+# Baixe o arquivo google-services.json do Console Firebase
+# Coloque em android/app/
+# Para iOS, baixe GoogleService-Info.plist e coloque em ios/Runner/
+
+5. Execute em emulador ou dispositivo:flutter run
+
+   # 🚀 Roadmap Futuro
+📊 Gráficos detalhados de evolução por atleta
+🧩 Integração BLE real com smartwatches
+👥 Suporte a múltiplos usuários (treinador / atleta / responsável)
+📤 Exportação de relatórios em PDF
+🔐 Login social (Google, Apple)
+⚙️ Migração opcional para BLoC ou Riverpod
+🌐 Publicação Web com PWA
+📱 Versão iOS otimizada
+
+  # 🤝 Contribuições
+Contribuições são muito bem-vindas!
+Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias.
+
+  # 📄 Licença
+Este projeto é distribuído sob a licença MIT.
+Consulte o arquivo LICENSE para mais informações.
+
