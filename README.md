@@ -44,7 +44,7 @@ Além disso, o projeto soluciona problemas reais com as tecnologias:
 
 ## 👩‍💻 Sobre a Desenvolvedora
 
-Desenvolvedora FULL STACK **Flutter/React **, com background em **Direito**, ampla experiência em **conformação legal, compliance** e cursos voltados à **Cybersegurança**. Formada em **Flutter Specialist** e **React Developer (DIO)**, cursa o **3º período de Engenharia de Software**, aplicando conhecimentos técnicos em desenvolvimento mobile e web, arquitetura simples e eficiente, automação e Firebase, com foco na criação de MVPs funcionais e produtos digitais.
+Desenvolvedora FULL STACK **Flutter/React **, com background em **Direito**, ampla experiência em **conformação legal, compliance** e cursos voltados à **Cybersegurança**. Formada em **Flutter Specialist** e **React Developer (DIO)**, conta com monitoria em DEV APP na  **Engenharia de Software uniamerica**, aplicando conhecimentos técnicos em desenvolvimento mobile e web, arquitetura simples e eficiente, automação e Firebase, com foco na criação de MVPs funcionais e produtos digitais.
 
 ---
 
